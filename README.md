@@ -7,3 +7,6 @@ We provide you the most secure software you can use for your keypad doors!
 ## Discussion & Ideas
 - 4-digit-keypad with seven-segment-display?
 - Reset code?
+
+## Credits
+- Thanks to [OVERKILL Software](http://www.overkillsoftware.com/) for the GenSec logo which exists in the PAYDAY 2 universe.
