@@ -1,2 +1,5 @@
 # Ignore swap files / compiled files(?)
 *~
+
+# macOS
+.DS_Store
