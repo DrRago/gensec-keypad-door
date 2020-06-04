@@ -8,5 +8,8 @@ We provide you the most secure software you can use for your keypad doors!
 - 4-digit-keypad with seven-segment-display?
 - Reset code?
 
+## Flow chart
+![Flow](https://gitlab.tandashi.de/DHBW/gensec-keypad-door/-/raw/master/doc/flowchart_usage.svg)
+
 ## Credits
 - Thanks to [OVERKILL Software](http://www.overkillsoftware.com/) for the GenSec logo which exists in the PAYDAY 2 universe.
