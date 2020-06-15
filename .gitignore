@@ -1,5 +1,11 @@
 # Ignore swap files / compiled files(?)
 *~
 
+# Compiled files
+*.hex
+*.lst
+*.adf
+*.bin
+
 # macOS
 .DS_Store
